@@ -1,7 +1,6 @@
-export ZSH="/Users/admin/.oh-my-zsh"
+export ZSH="$HOME/.oh-my-zsh"
 
 alias rm='rm -i'
-
 ZSH_THEME="robbyrussell"
 ZSH_THEME_RANDOM_CANDIDATES=( "robbyrussell" "agnoster" )
 # Uncomment the following line to use case-sensitive completion.

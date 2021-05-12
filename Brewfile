@@ -125,8 +125,6 @@ brew "pdftohtml"
 # Object-relational database system
 brew "postgresql@10", restart_service: true
 # Object-relational database system
-brew "postgresql@9.6", restart_service: true
-# Secure and efficient FTP server
 brew "pure-ftpd"
 # Monitor data's progress through a pipe
 brew "pv"
